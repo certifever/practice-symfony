@@ -11,6 +11,7 @@ Symfony implementation of certifever practice
 - [ ] has a practice section with selectable topic, stats with past progress, and a practice area "quiz runner"
 - [ ] the quiz runner can select subtopics, has settings (e.g. repeat wrong answers, duration, number of questions etc.)
 - [ ] the quiz runner shows a result screen afterwards and adds the results to the stats.
+- [ ] has a helper in the background that gradually hints at strong/weak topics to practice per user
 
 ### nice to have
 - [ ] UI is in a storybook
